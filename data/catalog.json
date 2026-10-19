@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15",
+  "updated_at": "2026-10-19",
   "resources": [
     {
       "id": "chatgpt",
@@ -450,6 +450,25 @@
       "review_basis": "官方介绍或项目文档核对",
       "hands_on": false,
       "status": "active"
+    },
+    {
+      "id": "tiny-little-office",
+      "category": "轻量文档与原型参考",
+      "name": "Tiny Little Office",
+      "author": "Paul Ford / Aboard（据 Simon Willison 原文介绍）",
+      "url": "https://tinylittleoffice.com/",
+      "language": "英文",
+      "audience": "寻找轻量文档工具、研究 AI 输出怎样便于分享的人",
+      "why": "官网提供文字、表格、演示等入口，以链接承载文档，可作为产品分享流程的参考。",
+      "first_step": "先打开一个编辑器观察流程；Agent 接入说明未能独立读取，本期不作功能验证。",
+      "source_url": "https://tinylittleoffice.com/",
+      "published_at": null,
+      "date_note": "官网未标发布日期，作为工具补录，不归为本周新发布",
+      "added_at": "2026-10-19",
+      "checked_at": "2026-10-19",
+      "review_basis": "官网介绍和原作者关联文章交叉核对，未试用",
+      "hands_on": false,
+      "status": "active"
     }
   ],
   "creators": [
@@ -711,6 +730,44 @@
       "checked_at": "2026-10-15",
       "section": "evergreen",
       "status": "active"
+    },
+    {
+      "kind": "文章",
+      "language": "英文",
+      "published_at": "2026-10-15",
+      "date_note": "",
+      "added_at": "2026-10-19",
+      "checked_at": "2026-10-19",
+      "section": "news",
+      "status": "active",
+      "id": "claude-code-review-20261015",
+      "title": "How the Claude Code team does code review",
+      "author": "Addy Osmani、Morgan Westlee Lunt、Qing Wang",
+      "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "source_url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "why": "看一个团队如何按风险安排自动检查与人工审核，并把事故变成后续评测样本。",
+      "audience": "与研发协作、需要制定 AI 交付验收方式的产品经理",
+      "basis": "阅读原作者全文，核对署名和页首发布日期",
+      "caution": "团队经验与指标来自作者自述，不代表其他团队能直接复现。"
+    },
+    {
+      "kind": "文章",
+      "language": "英文",
+      "published_at": "2026-10-15",
+      "date_note": "",
+      "added_at": "2026-10-19",
+      "checked_at": "2026-10-19",
+      "section": "news",
+      "status": "active",
+      "id": "latex-renderer-20261015",
+      "title": "Tool: LaTeX renderer",
+      "author": "Simon Willison",
+      "url": "https://simonwillison.net/2026/Oct/15/latex/",
+      "source_url": "https://simonwillison.net/2026/Oct/15/latex/",
+      "why": "作者展示怎样用 AI 制作可分享公式与文档的小工具，附需求迭代过程，适合观察原型如何收敛。",
+      "audience": "想用 AI 做小工具、探索轻量分享方式的人",
+      "basis": "阅读作者原文，并核对工具页面的编辑与分享入口",
+      "caution": "未实际运行生成或导出；文章描述与本人试用结果分开。"
     }
   ]
 }

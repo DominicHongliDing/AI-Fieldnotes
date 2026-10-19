@@ -33,7 +33,7 @@ def render():
                     ' · '.join(f'[{label}]({url})' for label, url in c['links'].items()), '',
                     f"账号来源：[作者主页]({c['homepage']}) · 核对：{c['checked_at']}", '']
     reading = ['# 留下来慢慢看的文章与视频', '', '[返回首页](../README.md) · [更新记录](../editions/README.md)', '',
-               '目前是基础与方法资料，包含旧课程和旧文。收录日期不是原始发布日期。视频条目注明查看了什么；尚未完整观看的条目只作为观看导引。', '']
+               '这里包含近期文章、方法资料和旧课程。原始发布日期与核对日期分别记录，收录日期不代表新发布。视频条目注明查看了什么；尚未完整观看的条目只作为观看导引。', '']
     for kind in ('视频', '文章'):
         reading += [f'## {kind}', '']
         for item in data['reading']:

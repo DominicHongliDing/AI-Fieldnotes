@@ -2,7 +2,7 @@
 
 [返回首页](../README.md) · [更新记录](../editions/README.md)
 
-目前是基础与方法资料，包含旧课程和旧文。收录日期不是原始发布日期。视频条目注明查看了什么；尚未完整观看的条目只作为观看导引。
+这里包含近期文章、方法资料和旧课程。原始发布日期与核对日期分别记录，收录日期不代表新发布。视频条目注明查看了什么；尚未完整观看的条目只作为观看导引。
 
 ## 视频
 
@@ -87,3 +87,23 @@ Anthropic · 英文 · 2026-04-08
 适合：想深入理解 Agent 交付问题的人。供应商的工程实践与服务介绍，不能直接当作所有产品的通用方案。
 
 推荐依据：阅读官方文章（[来源](https://www.anthropic.com/engineering/managed-agents)）。收录 / 核对：2026-10-15。
+
+### [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
+
+Addy Osmani、Morgan Westlee Lunt、Qing Wang · 英文 · 2026-10-15
+
+看一个团队如何按风险安排自动检查与人工审核，并把事故变成后续评测样本。
+
+适合：与研发协作、需要制定 AI 交付验收方式的产品经理。团队经验与指标来自作者自述，不代表其他团队能直接复现。
+
+推荐依据：阅读原作者全文，核对署名和页首发布日期（[来源](https://claude.dev/blog/solving-code-review-at-anthropic/)）。收录 / 核对：2026-10-19。
+
+### [Tool: LaTeX renderer](https://simonwillison.net/2026/Oct/15/latex/)
+
+Simon Willison · 英文 · 2026-10-15
+
+作者展示怎样用 AI 制作可分享公式与文档的小工具，附需求迭代过程，适合观察原型如何收敛。
+
+适合：想用 AI 做小工具、探索轻量分享方式的人。未实际运行生成或导出；文章描述与本人试用结果分开。
+
+推荐依据：阅读作者原文，并核对工具页面的编辑与分享入口（[来源](https://simonwillison.net/2026/Oct/15/latex/)）。收录 / 核对：2026-10-19。

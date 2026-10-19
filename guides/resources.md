@@ -162,3 +162,16 @@
 - Futurepedia：[核对来源](https://www.futurepedia.io/) · 2026-10-15 · 介绍核对，未完成试用评测
 
 </details>
+
+## 轻量文档与原型参考
+
+| 资源 | 适合谁、有什么用 | 从哪里开始 |
+|---|---|---|
+| [Tiny Little Office](https://tinylittleoffice.com/) · 英文 | 寻找轻量文档工具、研究 AI 输出怎样便于分享的人。官网提供文字、表格、演示等入口，以链接承载文档，可作为产品分享流程的参考。 | 先打开一个编辑器观察流程；Agent 接入说明未能独立读取，本期不作功能验证。 |
+
+<details>
+<summary>本组来源与核对日期</summary>
+
+- Tiny Little Office：[核对来源](https://tinylittleoffice.com/) · 2026-10-19 · 介绍核对，未完成试用评测
+
+</details>

@@ -22,6 +22,10 @@
 | 找模型，比较候选方案 | [Hugging Face](https://huggingface.co/)、[魔搭](https://www.modelscope.cn/)、[Artificial Analysis](https://artificialanalysis.ai/) |
 | 试试图像与视频工作流 | [Comfy](https://comfy.org/)、[RunningHub](https://www.runninghub.cn/) |
 
+## 最近更新
+
+[第 002 期 · AI 写完之后怎样验收](editions/002-2026-10-19.md)：两篇近期文章与一个工具补录，围绕交付检查和轻量分享。核对于 2026-10-19。
+
 ## 首版收录
 
 **30 个网站与资源入口 · 7 位作者或频道 · 5 个视频与 3 篇文章**
