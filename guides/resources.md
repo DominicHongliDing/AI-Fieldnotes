@@ -175,3 +175,16 @@
 - Tiny Little Office：[核对来源](https://tinylittleoffice.com/) · 2026-10-19 · 介绍核对，未完成试用评测
 
 </details>
+
+## Agent 方法与规范
+
+| 资源 | 适合谁、有什么用 | 从哪里开始 |
+|---|---|---|
+| [Agent Skills 官方文档](https://agentskills.io/home) · 英文 | 想把重复业务流程整理成 Agent 技能的人。说明技能目录、说明文件和按需加载的基本结构，适合将操作经验整理成可维护的材料。 | 从 Overview 看基本结构，再读 Specification；先选一个边界清楚的小任务。 |
+
+<details>
+<summary>本组来源与核对日期</summary>
+
+- Agent Skills 官方文档：[核对来源](https://agentskills.io/home) · 2026-10-26 · 介绍核对，未完成试用评测
+
+</details>

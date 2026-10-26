@@ -58,7 +58,7 @@ Andrej Karpathy · 英文 · 具体发布日期待核实，归入使用方法资
 
 ## 文章
 
-### [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents)
+### [Building effective agents](https://www.anthropic.com/research/building-effective-agents)
 
 Anthropic · 英文 · 2024-12-19
 
@@ -66,9 +66,9 @@ Anthropic · 英文 · 2024-12-19
 
 适合：规划 Agent 产品的人。原文已提示工具环境发生变化；可同时阅读 2026 年 Managed Agents 文章。
 
-推荐依据：阅读官方文章（[来源](https://www.anthropic.com/engineering/building-effective-agents)）。收录 / 核对：2026-10-15。
+推荐依据：阅读官方文章（[来源](https://www.anthropic.com/research/building-effective-agents)）。收录 / 核对：2026-10-26。
 
-### [Effective context engineering for AI agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)
+### [Effective context engineering for AI agents](https://www.anthropic.com/research/effective-context-engineering-for-ai-agents)
 
 Anthropic · 英文 · 2025-09-29
 
@@ -76,9 +76,9 @@ Anthropic · 英文 · 2025-09-29
 
 适合：设计多轮交互和长任务的人。这是特定团队的经验，应结合自己的任务做验证。
 
-推荐依据：阅读官方文章（[来源](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents)）。收录 / 核对：2026-10-15。
+推荐依据：阅读官方文章（[来源](https://www.anthropic.com/research/effective-context-engineering-for-ai-agents)）。收录 / 核对：2026-10-26。
 
-### [Scaling Managed Agents: Decoupling the brain from the hands](https://www.anthropic.com/engineering/managed-agents)
+### [Scaling Managed Agents: Decoupling the brain from the hands](https://www.anthropic.com/research/managed-agents)
 
 Anthropic · 英文 · 2026-04-08
 
@@ -86,7 +86,7 @@ Anthropic · 英文 · 2026-04-08
 
 适合：想深入理解 Agent 交付问题的人。供应商的工程实践与服务介绍，不能直接当作所有产品的通用方案。
 
-推荐依据：阅读官方文章（[来源](https://www.anthropic.com/engineering/managed-agents)）。收录 / 核对：2026-10-15。
+推荐依据：阅读官方文章（[来源](https://www.anthropic.com/research/managed-agents)）。收录 / 核对：2026-10-26。
 
 ### [How the Claude Code team does code review](https://claude.dev/blog/solving-code-review-at-anthropic/)
 
@@ -107,3 +107,33 @@ Simon Willison · 英文 · 2026-10-15
 适合：想用 AI 做小工具、探索轻量分享方式的人。未实际运行生成或导出；文章描述与本人试用结果分开。
 
 推荐依据：阅读作者原文，并核对工具页面的编辑与分享入口（[来源](https://simonwillison.net/2026/Oct/15/latex/)）。收录 / 核对：2026-10-19。
+
+### [Donating Agent Skills to the Agentic AI Foundation](https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation)
+
+Anthropic · 英文 · 2026-10-22
+
+了解怎样把业务操作方法整理成可复用的技能，以及开放格式由谁维护。
+
+适合：希望跨工具复用业务流程的产品与运营同事。开放格式和实际兼容程度是两回事，已有技能仍需在目标工具中核对权限与运行条件。
+
+推荐依据：阅读官方原文，核对作者、发布日期与具体案例（[来源](https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation)）。收录 / 核对：2026-10-26。
+
+### [We gave AI agents a mobile dev environment](https://shopify.engineering/remote-dev)
+
+Michael Garfinkle、Mauricio de Meirelles、David Cortes · 英文 · 2026-10-22
+
+展示如何让同事直接打开运行中的移动端预览，并用修复前后的操作记录核对变化。
+
+适合：需要验收移动端功能、与研发协作的产品经理和设计师。这是 Shopify 的内部环境经验，不是可直接注册使用的公开产品；没有复现其部署。
+
+推荐依据：阅读官方原文，核对作者、发布日期与具体案例（[来源](https://shopify.engineering/remote-dev)）。收录 / 核对：2026-10-26。
+
+### [How Shopify turns open models into task experts](https://shopify.engineering/open-model-task-experts)
+
+Andrew McNamara、Logan Vegna · 英文 · 2026-10-21
+
+看团队如何先定义任务质量，再比较通用模型和专用模型，并将失败样本用于后续改进。
+
+适合：负责 AI 功能选型、验收与成本取舍的产品同事。效果和成本数据来自作者的特定任务，不作为其他业务可复现的收益承诺。
+
+推荐依据：阅读官方原文，核对作者、发布日期与具体案例（[来源](https://shopify.engineering/open-model-task-experts)）。收录 / 核对：2026-10-26。
