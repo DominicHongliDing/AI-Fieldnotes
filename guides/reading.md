@@ -137,3 +137,33 @@ Andrew McNamara、Logan Vegna · 英文 · 2026-10-21
 适合：负责 AI 功能选型、验收与成本取舍的产品同事。效果和成本数据来自作者的特定任务，不作为其他业务可复现的收益承诺。
 
 推荐依据：阅读官方原文，核对作者、发布日期与具体案例（[来源](https://shopify.engineering/open-model-task-experts)）。收录 / 核对：2026-10-26。
+
+### [The October inflection point for vibe game development](https://simonwillison.net/2026/Oct/28/vibe-game-development/)
+
+Simon Willison · 英文 · 2026-10-28
+
+作者用四个浏览器游戏说明从生成画面到调试玩法的迭代过程，附示例和对话入口。
+
+适合：想用 AI 做交互原型、练习描述体验的产品与设计读者。模型比较是作者个人体验，不能视为通用排名；完成原型后仍需实际试玩。
+
+推荐依据：阅读作者全文及示例说明，未完整试玩游戏或观看演示视频（[来源](https://simonwillison.net/2026/Oct/28/vibe-game-development/)）。收录 / 核对：2026-11-02。
+
+### [Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/)
+
+GitHub Staff · 英文 · 2026-10-28
+
+从开发活动、行业分布和模型使用方式观察 Agent 的采用，并提供统计方法与口径。
+
+适合：需要行业背景资料、准备 AI 产品讨论或面试的读者。平台活动量不等于生产效率或产品质量；模型使用份额不是能力排名。
+
+推荐依据：读取官方报告的概览、统计口径与方法部分（[来源](https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/)）。收录 / 核对：2026-11-02。
+
+### [Partnering with Singapore to bring frontier AI to public health](https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/)
+
+Ben King（Google Singapore） · 英文 · 2026-10-29
+
+介绍医疗机构如何与 AI 团队合作，涉及指南与文献整理、医生查询辅助和公共健康场景。
+
+适合：关心医疗 AI 产品场景、机构合作与落地边界的读者。这是合作与研究进展公告，不是临床有效性验证，也不是面向个人的诊疗建议。
+
+推荐依据：阅读官方正文，核对署名、日期和临床工具仍在评估的表述（[来源](https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/)）。收录 / 核对：2026-11-02。
