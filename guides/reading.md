@@ -167,3 +167,33 @@ Ben King（Google Singapore） · 英文 · 2026-10-29
 适合：关心医疗 AI 产品场景、机构合作与落地边界的读者。这是合作与研究进展公告，不是临床有效性验证，也不是面向个人的诊疗建议。
 
 推荐依据：阅读官方正文，核对署名、日期和临床工具仍在评估的表述（[来源](https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/)）。收录 / 核对：2026-11-02。
+
+### [Transform a quick drawing into a live app with Gemini](https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/)
+
+Google Gemini 团队 · 英文 · 2026-11-05
+
+Google 展示将手绘草图交给 Gemini Canvas，生成可在预览窗口操作的应用。可用一张表单草图检查输入、提交和错误状态。
+
+适合：需要把草图变成可点击原型的产品与设计同事。依据官方操作说明，未实际试用；原型仍需逐项验收。
+
+推荐依据：官方原文或项目更新记录（[来源](https://blog.google/innovation-and-ai/products/gemini-app/turn-drawings-into-apps-gemini/)）。收录 / 核对：2026-11-09。
+
+### [Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
+
+Anish Nangia（Google DeepMind） · 英文 · 2026-11-05
+
+公告介绍原生 15 秒生成和多轮编辑。可以据此设计一次小测试：同一素材只改一个细节，看看其他部分能否保留。
+
+适合：需要制作短片样稿或比较生成流程的内容团队。依据官方发布说明，未生成或比较样片；效果与可用条件需另行确认。
+
+推荐依据：官方原文或项目更新记录（[来源](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)）。收录 / 核对：2026-11-09。
+
+### [LLM 0.37.1 更新记录](https://github.com/simonw/llm/blob/main/docs/changelog.md)
+
+Simon Willison 与项目贡献者 · 英文 · 2026-11-03
+
+用同一工具记录不同模型的输入与输出。0.37 增加兼容端点配置命令，0.37.1 修复了该命令处理部分配置文件的问题。
+
+适合：有命令行基础、需要比较多个模型的开发者或产品同事。依据项目更新记录，未安装或运行；对照时应明确模型、版本与参数。
+
+推荐依据：官方原文或项目更新记录（[来源](https://github.com/simonw/llm/blob/main/docs/changelog.md)）。收录 / 核对：2026-11-09。

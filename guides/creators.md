@@ -54,7 +54,7 @@ X 入口通过作者官网交叉确认；部分动态页面限制访问，本次
 
 [X](https://x.com/latentspacepod) · [YouTube 播放列表](https://www.youtube.com/playlist?list=PLWEAb1SXhjlfkEF_PxzYHonU_v5LPMI8L)
 
-账号来源：[作者主页](https://www.latent.space/about) · 核对：2026-10-15
+账号来源：[作者主页](https://latent.space/about/) · 核对：2026-10-15
 
 ## 3Blue1Brown
 

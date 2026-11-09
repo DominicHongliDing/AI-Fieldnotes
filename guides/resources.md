@@ -28,7 +28,7 @@
 | 资源 | 适合谁、有什么用 | 从哪里开始 |
 |---|---|---|
 | [The Batch](https://www.deeplearning.ai/the-batch) · 英文 | 想定期了解行业变化的人。按期整理 AI 新闻与研究，适合先浏览议题，再回到原始发布。 | 先看一期标题，再挑一条与你有关的内容。 |
-| [Latent Space](https://www.latent.space/) · 英文 | 想了解产品背后如何实现的人。访谈、文章与视频涉及 AI 产品和工程实践，适合带着具体问题阅读。 | 从一个与你正在做的产品相关的访谈开始。 |
+| [Latent Space](https://latent.space/) · 英文 | 想了解产品背后如何实现的人。访谈、文章与视频涉及 AI 产品和工程实践，适合带着具体问题阅读。 | 从一个与你正在做的产品相关的访谈开始。 |
 | [One Useful Thing](https://www.oneusefulthing.org/) · 英文 | 产品、业务与教育从业者。Ethan Mollick 关于 AI 对工作、教育和生活影响的观察。 | 选一篇工作场景文章，记下可以自己验证的做法。 |
 | [Simon Willison’s Weblog](https://simonwillison.net/) · 英文 | 愿意自己试模型和工具的人。有模型使用记录、代码与具体示例，方便追查结论从哪里来。 | 从 LLM 标签页挑一篇带示例的记录。 |
 | [Anthropic Engineering](https://www.anthropic.com/engineering) · 英文 | 关心 Agent 产品实现与取舍的人。官方工程文章，适合了解上下文、工具和运行环境的设计思路。 | 按问题选文章，同时检查发布日期和后续更新。 |
@@ -37,7 +37,7 @@
 <summary>本组来源与核对日期</summary>
 
 - The Batch：[核对来源](https://www.deeplearning.ai/the-batch/about) · 2026-10-15 · 介绍核对，未完成试用评测
-- Latent Space：[核对来源](https://www.latent.space/about) · 2026-10-15 · 介绍核对，未完成试用评测
+- Latent Space：[核对来源](https://latent.space/about/) · 2026-10-15 · 介绍核对，未完成试用评测
 - One Useful Thing：[核对来源](https://www.oneusefulthing.org/about) · 2026-10-15 · 介绍核对，未完成试用评测
 - Simon Willison’s Weblog：[核对来源](https://simonwillison.net/) · 2026-10-15 · 介绍核对，未完成试用评测
 - Anthropic Engineering：[核对来源](https://www.anthropic.com/engineering) · 2026-10-15 · 介绍核对，未完成试用评测
@@ -70,6 +70,7 @@
 | [Dify](https://dify.ai/) · 中文 / 英文 | 想验证 AI 工作流的产品与开发同事。可视化构建 Agent 工作流，适合把输入、处理步骤和输出拆开验证。 | 先做一个只有少量步骤的业务流程。 |
 | [n8n](https://n8n.io/) · 英文为主 | 需要连接多个业务工具的人。通过工作流组织工具与服务，也提供 AI 相关能力。 | 选择一个重复的数据整理任务，从手动触发开始。 |
 | [Ollama](https://ollama.com/) · 英文 | 想尝试开放模型的人。提供使用开放模型的入口，可查看本地及云端运行方式。 | 按设备条件选择模型，区分本地运行与云服务。 |
+| [LLM（命令行工具）](https://github.com/simonw/llm) · 英文 | 希望用固定输入对照不同模型的人。项目提供命令行与 Python 接口，可用于保存和回看模型输出。 | 先用不含敏感信息的样本记录模型名称、参数和结果，再比较差异。 |
 
 <details>
 <summary>本组来源与核对日期</summary>
@@ -79,6 +80,7 @@
 - Dify：[核对来源](https://dify.ai/) · 2026-10-15 · 介绍核对，未完成试用评测
 - n8n：[核对来源](https://n8n.io/) · 2026-10-15 · 介绍核对，未完成试用评测
 - Ollama：[核对来源](https://ollama.com/) · 2026-10-15 · 介绍核对，未完成试用评测
+- LLM（命令行工具）：[核对来源](https://github.com/simonw/llm) · 2026-11-09 · 介绍核对，未完成试用评测
 
 </details>
 
