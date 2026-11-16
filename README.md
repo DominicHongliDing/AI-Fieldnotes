@@ -17,14 +17,14 @@
 | 先试一个通用 AI 助手 | [ChatGPT](https://chatgpt.com/overview/)、[Claude](https://claude.com/)、[Gemini](https://gemini.google/overview/)、[DeepSeek](https://www.deepseek.com/) |
 | 用中文把基础概念弄清楚 | [李宏毅课程](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)、[提示工程指南](https://www.promptingguide.ai/zh) |
 | 找值得长期关注的作者 | [作者目录](guides/creators.md)，按主题和语言选择 |
-| 跟进行业、产品和研究 | [The Batch](https://www.deeplearning.ai/the-batch)、[Latent Space](https://www.latent.space/)、[Hugging Face Papers](https://huggingface.co/papers) |
+| 跟进行业、产品和研究 | [The Batch](https://www.deeplearning.ai/the-batch)、[Latent Space](https://latent.space/)、[Hugging Face Papers](https://huggingface.co/papers) |
 | 把一个想法做成原型 | [Codex](https://openai.com/codex/)、[Cursor](https://cursor.com/)、[Dify](https://dify.ai/)、[n8n](https://n8n.io/) |
 | 找模型，比较候选方案 | [Hugging Face](https://huggingface.co/)、[魔搭](https://www.modelscope.cn/)、[Artificial Analysis](https://artificialanalysis.ai/) |
 | 试试图像与视频工作流 | [Comfy](https://comfy.org/)、[RunningHub](https://www.runninghub.cn/) |
 
 ## 最近更新
 
-[第 005 期 · 把草图、短片和模型对照做成小实验](editions/005-2026-11-09.md)：三条近期更新。核对于 2026-11-09。
+[第 006 期 · 把 AI 用进具体任务，也让结果更容易审阅](editions/006-2026-11-16.md)：文档审阅、生活原型与模型选择。核对于 2026-11-16。
 
 ## 首版收录
 
