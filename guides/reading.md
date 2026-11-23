@@ -227,3 +227,33 @@ Meta AI · 英文 · 2026-11-09
 适合：设计 AI 工作流、需要评估任务成本的产品与开发同事。厂商评测不能替代自己的任务验收；价格和可用范围以当前官方说明为准。
 
 推荐依据：核对官方发布页的用途与评测说明，未调用模型。（[来源](https://research.meta.ai/blog/muse-ember)）。收录 / 核对：2026-11-16。
+
+### [AI 代打电话，要同时照顾电话两端的人](https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/)
+
+Yossi Matias、Yaniv Leviathan、Janet Zhou（Google） · 英文 · 2026-11-20
+
+文章介绍 Duplex 接入 Gemini 的演进，尤其值得看 AI 身份告知、商家退出机制，以及如何适应对方现有工作方式。
+
+适合：做语音助手、预约或客户服务产品的人。未实际拨打电话；功能可用范围需另查，不将官方介绍当作服务效果验证。
+
+推荐依据：阅读官方产品与研究说明。（[来源](https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/)）。收录 / 核对：2026-11-23。
+
+### [把 Agent 执行代码的范围单独限制起来](https://blog.primeradiant.com/external-sandboxes-for-coding-agents/)
+
+Prime Radiant 团队 · 英文 · 2026-11-16
+
+文章用三个原型说明如何把命令放到独立环境执行，并控制可访问的文件和网络。可用它梳理产品需要开放哪些能力。
+
+适合：需要与开发讨论 Agent 文件和网络权限的产品同事。不同 Agent 接入范围不同：文中 Claude Code 的原生读写仍在主机执行，不能理解为所有操作都已隔离。
+
+推荐依据：核对原始说明及接入限制，未安装或运行。（[来源](https://blog.primeradiant.com/external-sandboxes-for-coding-agents/)）。收录 / 核对：2026-11-23。
+
+### [用 AI 做一页控件样式对照表](https://simonwillison.net/2026/Nov/22/select-styling/)
+
+Simon Willison · 英文 · 2026-11-22
+
+作者用 Claude 制作下拉框样式对照页，把一个模糊的视觉问题变成可逐项检查的样例。原文链接到带 CSS 的展示页。
+
+适合：需要验收网页原型、和设计开发沟通细节的人。这是 AI 辅助制作的设计参考，不是模型效果评测；样式兼容性仍需在目标浏览器检查。
+
+推荐依据：阅读作者记录和样例页面文本，未进行跨浏览器交互测试。（[来源](https://simonwillison.net/2026/Nov/22/select-styling/)）。收录 / 核对：2026-11-23。

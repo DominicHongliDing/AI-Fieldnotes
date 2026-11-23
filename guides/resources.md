@@ -71,6 +71,7 @@
 | [n8n](https://n8n.io/) · 英文为主 | 需要连接多个业务工具的人。通过工作流组织工具与服务，也提供 AI 相关能力。 | 选择一个重复的数据整理任务，从手动触发开始。 |
 | [Ollama](https://ollama.com/) · 英文 | 想尝试开放模型的人。提供使用开放模型的入口，可查看本地及云端运行方式。 | 按设备条件选择模型，区分本地运行与云服务。 |
 | [LLM（命令行工具）](https://github.com/simonw/llm) · 英文 | 希望用固定输入对照不同模型的人。项目提供命令行与 Python 接口，可用于保存和回看模型输出。 | 先用不含敏感信息的样本记录模型名称、参数和结果，再比较差异。 |
+| [Select Styling Specimens](https://tools.simonwillison.net/select-styling) · 英文 | 需要验收网页原型、和设计开发沟通细节的人。下拉框样式与状态的集中对照页，每个样例附对应 CSS，方便讨论原型细节。 | 从默认样式和状态两组开始，选出需要在目标浏览器验收的项目。 |
 
 <details>
 <summary>本组来源与核对日期</summary>
@@ -81,6 +82,7 @@
 - n8n：[核对来源](https://n8n.io/) · 2026-10-15 · 介绍核对，未完成试用评测
 - Ollama：[核对来源](https://ollama.com/) · 2026-10-15 · 介绍核对，未完成试用评测
 - LLM（命令行工具）：[核对来源](https://github.com/simonw/llm) · 2026-11-09 · 介绍核对，未完成试用评测
+- Select Styling Specimens：[核对来源](https://simonwillison.net/2026/Nov/22/select-styling/) · 2026-11-23 · 介绍核对，未完成试用评测
 
 </details>
 
